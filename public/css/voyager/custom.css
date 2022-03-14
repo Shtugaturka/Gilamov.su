@@ -1,0 +1,21 @@
+body, html {
+    color: #000;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li>a {
+    color: #ffffff;
+}
+
+.voyager .side-menu .navbar-header {
+    background: #D9230F;
+    border-color: #D9230F;
+}
+
+
+a {
+    color: #27292b;
+}
+
+.voyager .breadcrumb a {
+    color:  #27292b;
+}
